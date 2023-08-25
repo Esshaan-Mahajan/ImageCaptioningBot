@@ -8,6 +8,9 @@ Dataset Used: Flickr8k_Dataset
 
 
 Model Summary is as follows:
+
+
+
 <img width="586" alt="image" src="https://github.com/Esshaan-Mahajan/ImageCaptioningBot/assets/56061481/67af5a39-bc46-4284-a185-994c0e636069">
 
 
