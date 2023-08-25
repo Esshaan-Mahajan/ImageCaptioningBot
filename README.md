@@ -5,16 +5,14 @@ Embedding and Transfer Learning.
 • The caption can be converted to speech using text-to-speech converter. Useful for visually impaired people.
 
 Dataset Used: Flickr8k_Dataset
-
-
-Model Summary is as follows:
+# Model Summary is as follows:
 
 
 
 <img width="586" alt="image" src="https://github.com/Esshaan-Mahajan/ImageCaptioningBot/assets/56061481/67af5a39-bc46-4284-a185-994c0e636069">
 
 
-Screenshots of Results:
+# Screenshots of Results:
 <img width="400" alt="image" src="https://github.com/Esshaan-Mahajan/ImageCaptioningBot/assets/56061481/27701302-9d77-4345-b640-992dde6630b2">
 
 <img width="375" alt="image" src="https://github.com/Esshaan-Mahajan/ImageCaptioningBot/assets/56061481/d253cd48-bb89-4aa3-ae83-2d5e3dbdecad">
